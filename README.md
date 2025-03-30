@@ -1,5 +1,4 @@
 # Artigo Dio
-ChatGPT：
 
 Ação	prompt
 título	Olá, quero criar um artigo sobre o uso da inteligencia artificial no mercado de trabalho. Pode criar 10 headlines para nomes de artigos sobre o assunto?
